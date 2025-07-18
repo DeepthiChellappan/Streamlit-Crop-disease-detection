@@ -95,4 +95,3 @@ st.markdown(
     "<hr><p style='text-align: center; font-size: 13px;'>🚀 Smart Agriculture System | Powered by ANNAM.AI</p>",
     unsafe_allow_html=True
 )
-
